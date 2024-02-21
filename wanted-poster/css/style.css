@@ -106,6 +106,7 @@ h4 {
 }
 
 h5 {
+    background-color: #333;
     text-transform: uppercase;
     font-size:1rem;
     margin: .25rem;
@@ -115,7 +116,6 @@ h5 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     padding: 0.5rem
-    background-color: #333;
 }
 
 /* Section & Paragraph */
