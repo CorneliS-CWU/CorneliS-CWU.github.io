@@ -136,6 +136,7 @@ p {
 /* Image & Figure */
 
 image {
+    display: block;
     margin-top: 0rem;
     margin-bottom: 0rem;
     margin-left: auto;
