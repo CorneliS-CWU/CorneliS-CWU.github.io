@@ -80,7 +80,8 @@
   
   
   .image-container {
-    align-self: flex-end
+    display: flex;
+    align-self: flex-end;
     justify-content: space-between;
     padding: 10px;
   }
