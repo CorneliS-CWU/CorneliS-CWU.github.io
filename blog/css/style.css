@@ -81,7 +81,7 @@
   
   .image-container {
     display: flex;
-    align-self: flex-end;
+    align-items: end;
     justify-content: space-between;
     padding: 10px;
   }
