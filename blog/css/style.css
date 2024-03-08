@@ -97,6 +97,10 @@
   }
 
 
+  .container {
+    display: flex;
+}
+
 .aside {
-    float: right;
+    margin-left: auto; /* Pushes the aside to the right */
 }
