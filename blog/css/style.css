@@ -73,11 +73,15 @@
   }
 
 
-  article {
+.main-section {
     width: 100%;
   }
   
-  img {
-    float: left;
-    margin-right: 20px;
+  .subsection {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f9f9f9; 
+    
   }
