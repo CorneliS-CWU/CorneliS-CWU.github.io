@@ -80,7 +80,7 @@
   
   
   .image-container {
-    display: flex;
+    align-self: flex-end
     justify-content: space-between;
     padding: 10px;
   }
@@ -94,13 +94,6 @@
   .container {
     display: flex;
 }
-
-.subsection {
-    width: auto;
-    background-color: #f9f9f9; 
-    align-self: flex-end;
-    
-  }
 
 .aside {
     margin-left: auto;
