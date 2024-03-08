@@ -96,10 +96,7 @@
     height: auto;
   }
 
-  .container {
-    display: flex;
-}
 
 .aside {
-    margin-left: auto;
+    float: right;
 }
