@@ -98,7 +98,7 @@
 .subsection {
     width: auto;
     background-color: #f9f9f9; 
-    margin-top: auto;
+    align-self: flex-end;
     
   }
 
